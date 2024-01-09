@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muskaan Fathima</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+/* - 🌱 I’m currently learning **ReactJS** */
 
 - 📫 How to reach me **muskaanfathima555@gmail.com**
 
